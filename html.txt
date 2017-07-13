@@ -1,0 +1,47 @@
+HTML
+
+Tags
+
+
+attributes: tags hold many attributes 
+
+validations: w3c 
+
+semantics: 
+
+css for design and styles.
+
+   <h1></h1>  <--tag to set up the head of the page and these are from h1 to h6-->
+<p></p> <--p for paragraphs-->
+
+<--specify semantics -->
+
+<b></b> <--bold-->
+<strong><--strong> <--highlights the statements-->
+<meta Charset="UTF-8"> <--DEFINES CHARACTERS FOR LANGUAGE-->
+<I></I> <--ITALLIC-->
+<blockquote></blockquote> <--breaking statements-->
+<br></br> <--line break-->
+<cite></cite> 
+
+<hr> <--section breaks-->
+<small></small> 
+<abbr></abbr> <--abbrevations-->
+
+
+
+connecting data with lists
+
+
+<ul></ul> <--unordered list-->
+<ol type="1" start="5"></ol> <--ordered list-->
+<li></li> <--list items-->
+
+<dl></dl> <--definition list-->
+<dd>
+<dt>
+
+HTML CONTENT
+
+EXCERCISE: take an article and find the tags that the developer has used in to do the task?
+
